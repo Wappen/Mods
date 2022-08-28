@@ -1,0 +1,31 @@
+subworlds:Farmwelt,FN,Freebuild,Freebuild End,Freebuild Nether,Hub,
+oldNorthWorlds:
+seeds:
+name:Eisenfarm,x:8265,z:-805,y:67,enabled:true,red:0.6156863,green:0.6156863,blue:0.6156863,suffix:pickaxe,world:Freebuild,dimensions:overworld#
+name:Haus,x:8552,z:-1029,y:83,enabled:true,red:0.7411765,green:0.9764706,blue:0.14509805,suffix:house,world:Freebuild,dimensions:overworld#the_end#
+name:Outpost,x:7848,z:-423,y:89,enabled:true,red:0.6313726,green:0.6313726,blue:0.6313726,suffix:skull,world:Freebuild,dimensions:overworld#
+name:Portal,x:8552,z:-2498,y:81,enabled:true,red:0.5882353,green:0.20784314,blue:0.5529412,suffix:,world:Freebuild,dimensions:overworld#
+name:Mesa,x:31076,z:-1970,y:88,enabled:true,red:0.99607843,green:0.4627451,blue:0.11764706,suffix:,world:Freebuild,dimensions:overworld#
+name:Schildkröten,x:30878,z:-1664,y:65,enabled:true,red:0.011764706,green:0.58431375,blue:0.0,suffix:fish,world:Freebuild,dimensions:overworld#
+name:Old Home,x:-61,z:-665,y:69,enabled:true,red:0.9882353,green:0.63529414,blue:0.6313726,suffix:house,world:Freebuild,dimensions:overworld#the_end#
+name:Spawn,x:-163,z:-299,y:71,enabled:true,red:0.34117648,green:0.9882353,blue:0.92156863,suffix:,world:Freebuild,dimensions:overworld#
+name:Pumba Base,x:-1285,z:-2689,y:70,enabled:true,red:0.99215686,green:0.105882354,blue:0.07450981,suffix:temple,world:Freebuild,dimensions:overworld#
+name:Eisfarm,x:7928,z:-2320,y:101,enabled:true,red:0.41960785,green:0.88235295,blue:0.9529412,suffix:pickaxe,world:Freebuild,dimensions:overworld#
+name:Sumpf,x:7890,z:-2517,y:63,enabled:true,red:0.007843138,green:0.4117647,blue:0.09411765,suffix:tree,world:Freebuild,dimensions:overworld#
+name:Witherfarm,x:14888,z:-3216,y:60,enabled:true,red:0.22745098,green:0.22745098,blue:0.22745098,suffix:skull,world:Freebuild Nether,dimensions:the_nether#
+name:Endportal,x:7756,z:-129,y:39,enabled:true,red:0.8627451,green:0.9843137,blue:0.4117647,suffix:,world:Freebuild,dimensions:overworld#
+name:Marlov Base,x:39015,z:-40633,y:94,enabled:true,red:0.9764706,green:0.6392157,blue:0.0,suffix:temple,world:Freebuild,dimensions:overworld#
+name:Gold XP Farm,x:-3328,z:-2600,y:79,enabled:true,red:0.6745098,green:0.9843137,blue:0.25490198,suffix:star,world:Freebuild Nether,dimensions:the_nether#
+name:Pommes Base,x:1506,z:-470,y:63,enabled:true,red:0.94509804,green:0.9764706,blue:0.25882354,suffix:temple,world:Freebuild,dimensions:overworld#
+name:Ginas Base,x:41,z:63,y:101,enabled:true,red:0.9607843,green:0.38431373,blue:0.003921569,suffix:temple,world:Freebuild,dimensions:overworld#
+name:Tigermädchen Base,x:3347,z:-5247,y:64,enabled:true,red:0.92843914,green:0.7187249,blue:0.26607722,suffix:temple,world:Freebuild,dimensions:overworld#
+name:Suicide Base,x:-2076,z:-2378,y:82,enabled:true,red:0.84705883,green:0.9843137,blue:0.4,suffix:temple,world:Freebuild,dimensions:overworld#
+name:Djungle,x:11218,z:-847,y:63,enabled:true,red:0.09019608,green:0.91764706,blue:0.0,suffix:tree,world:Freebuild,dimensions:overworld#
+name:Rewi Base,x:-555,z:-138,y:64,enabled:true,red:0.6018563,green:0.43725675,blue:0.48905027,suffix:temple,world:Freebuild,dimensions:overworld#
+name:Lolly Base,x:284,z:-481,y:63,enabled:true,red:0.8352941,green:0.21176471,blue:0.34901962,suffix:temple,world:Freebuild,dimensions:overworld#
+name:420,x:-420,z:-420,y:71,enabled:true,red:0.003921569,green:0.59607846,blue:0.011764706,suffix:wheat,world:Freebuild,dimensions:overworld#
+name:a,x:8526,z:-962,y:11,enabled:true,red:0.19853061,green:0.90092623,blue:0.79498625,suffix:,world:,dimensions:overworld#
+name:s,x:8526,z:-977,y:11,enabled:true,red:0.303577,green:0.8248359,blue:0.06079352,suffix:,world:,dimensions:overworld#
+name:Latest Death,x:-793,z:-547,y:10,enabled:true,red:1.0,green:1.0,blue:1.0,suffix:skull,world:Freebuild,dimensions:overworld#
+name:Breeder,x:8977,z:-882,y:75,enabled:true,red:0.2901961,green:1.0,blue:0.39607844,suffix:hoe,world:Freebuild,dimensions:overworld#
+name:Trader,x:8979,z:-952,y:62,enabled:true,red:0.23137255,green:0.58431375,blue:0.95686275,suffix:world,world:Freebuild,dimensions:overworld#the_end#
