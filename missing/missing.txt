@@ -1,5 +1,0 @@
-X MiniHUD
-X MaLiLib
-PickUpNotifier
-PuzzlesLib
-X slight gui modifications
