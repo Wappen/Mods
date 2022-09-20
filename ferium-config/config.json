@@ -1,1 +1,207 @@
-/home/lenzk/.config/ferium/config.json
+{
+  "active_profile": 0,
+  "active_modpack": 0,
+  "profiles": [
+    {
+      "name": "wappens-default",
+      "output_dir": "/home/lenzk/.minecraft/mods",
+      "game_version": "1.19",
+      "mod_loader": "Fabric",
+      "mods": [
+        {
+          "name": "'Slight' Gui Modifications",
+          "identifier": {
+            "ModrinthProject": "O7JVMrQX"
+          }
+        },
+        {
+          "name": "Architectury API",
+          "identifier": {
+            "ModrinthProject": "lhGA9TYQ"
+          }
+        },
+        {
+          "name": "Boosted Brightness",
+          "identifier": {
+            "ModrinthProject": "Abyk2Hrg"
+          }
+        },
+        {
+          "name": "Charmonium",
+          "identifier": {
+            "ModrinthProject": "bpii4Xsa"
+          }
+        },
+        {
+          "name": "CIT Resewn",
+          "identifier": {
+            "ModrinthProject": "otVJckYQ"
+          }
+        },
+        {
+          "name": "Cloth API (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 317121
+          }
+        },
+        {
+          "name": "Cloth Config API",
+          "identifier": {
+            "ModrinthProject": "9s6osm5g"
+          }
+        },
+        {
+          "name": "Cull Leaves",
+          "identifier": {
+            "ModrinthProject": "GNxdLCoP"
+          }
+        },
+        {
+          "name": "Custom Stars [Fabric]",
+          "identifier": {
+            "CurseForgeProject": 411848
+          }
+        },
+        {
+          "name": "Distant Horizons",
+          "identifier": {
+            "ModrinthProject": "uCdwusMi"
+          }
+        },
+        {
+          "name": "Dynamic Sound Filters",
+          "identifier": {
+            "CurseForgeProject": 392101
+          }
+        },
+        {
+          "name": "Enhanced Block Entities",
+          "identifier": {
+            "ModrinthProject": "OVuFYfre"
+          }
+        },
+        {
+          "name": "EntityCulling",
+          "identifier": {
+            "ModrinthProject": "NNAgCjsB"
+          }
+        },
+        {
+          "name": "Fabric API",
+          "identifier": {
+            "ModrinthProject": "P7dR8mSH"
+          }
+        },
+        {
+          "name": "Falling Leaves",
+          "identifier": {
+            "ModrinthProject": "WhbRG4iK"
+          }
+        },
+        {
+          "name": "Forge Config API Port",
+          "identifier": {
+            "CurseForgeProject": 547434
+          }
+        },
+        {
+          "name": "Indium",
+          "identifier": {
+            "ModrinthProject": "Orvt0mRa"
+          }
+        },
+        {
+          "name": "Iris Shaders",
+          "identifier": {
+            "ModrinthProject": "YL57xq9U"
+          }
+        },
+        {
+          "name": "Litematica",
+          "identifier": {
+            "CurseForgeProject": 308892
+          }
+        },
+        {
+          "name": "MaLiLib",
+          "identifier": {
+            "CurseForgeProject": 303119
+          }
+        },
+        {
+          "name": "MiniHUD",
+          "identifier": {
+            "CurseForgeProject": 244260
+          }
+        },
+        {
+          "name": "Mod Menu",
+          "identifier": {
+            "ModrinthProject": "mOgUt4GM"
+          }
+        },
+        {
+          "name": "Not Enough Crashes",
+          "identifier": {
+            "ModrinthProject": "yM94ont6"
+          }
+        },
+        {
+          "name": "Pick Up Notifier",
+          "identifier": {
+            "CurseForgeProject": 351441
+          }
+        },
+        {
+          "name": "Presence Footsteps",
+          "identifier": {
+            "ModrinthProject": "rcTfTZr3"
+          }
+        },
+        {
+          "name": "Puzzles Lib",
+          "identifier": {
+            "CurseForgeProject": 495476
+          }
+        },
+        {
+          "name": "Smooth Scrolling Everywhere (Fabric)",
+          "identifier": {
+            "CurseForgeProject": 325861
+          }
+        },
+        {
+          "name": "Sodium",
+          "identifier": {
+            "ModrinthProject": "AANobbMI"
+          }
+        },
+        {
+          "name": "Visuality",
+          "identifier": {
+            "ModrinthProject": "rI0hvYcd"
+          }
+        },
+        {
+          "name": "WI Zoom",
+          "identifier": {
+            "CurseForgeProject": 349630
+          }
+        },
+        {
+          "name": "Xaero's Minimap",
+          "identifier": {
+            "CurseForgeProject": 263420
+          }
+        },
+        {
+          "name": "Xaero's World Map",
+          "identifier": {
+            "CurseForgeProject": 317780
+          }
+        }
+      ]
+    }
+  ],
+  "modpacks": []
+}
